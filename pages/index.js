@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import styles from '../styles/Home.module.css';
-import Board from './Board.js';
+import Board from '../components/Board.js';
 import determineWinner from '../determineWinner';
 
 
